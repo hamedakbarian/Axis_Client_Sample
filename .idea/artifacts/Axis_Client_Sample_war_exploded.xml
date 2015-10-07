@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Axis_Client_Sample:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Axis_Client_Sample_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Axis_Client_Sample/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Axis_Client_Sample" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
